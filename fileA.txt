@@ -1,4 +1,3 @@
-branch from bugfix
 1. Display the "Sign Up" form
 2. let the user to enter the following information:
    a. Username
